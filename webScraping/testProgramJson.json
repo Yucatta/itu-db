@@ -1,0 +1,50 @@
+[
+    {
+        "programKodu": "ELKE_LS",
+        "programAdi": "Elektrik M\u00FChendisli\u011Fi (\u0130ngilizce) Lisans"
+    },
+    {
+        "programKodu": "ELK_LS",
+        "programAdi": "Elektrik M\u00FChendisli\u011Fi Lisans"
+    },
+    {
+        "programKodu": "ELE_LS",
+        "programAdi": "Elektronik M\u00FChendisli\u011Fi Lisans"
+    },
+    {
+        "programKodu": "ELH_LS",
+        "programAdi": "Elektronik ve Haberle\u015Fme M\u00FChendisli\u011Fi (ELH) Lisans"
+    },
+    {
+        "programKodu": "EHBE_LS",
+        "programAdi": "Elektronik ve Haberle\u015Fme M\u00FChendisli\u011Fi (\u0130ngilizce) Lisans"
+    },
+    {
+        "programKodu": "EHB_LS",
+        "programAdi": "Elektronik ve Haberle\u015Fme M\u00FChendisli\u011Fi Lisans"
+    },
+    {
+        "programKodu": "KON_LS",
+        "programAdi": "Kontrol M\u00FChendisli\u011Fi Lisans"
+    },
+    {
+        "programKodu": "KOME_LS",
+        "programAdi": "Kontrol ve Otomasyon M\u00FChendisli\u011Fi (\u0130ngilizce) Lisans"
+    },
+    {
+        "programKodu": "KOM_LS",
+        "programAdi": "Kontrol ve Otomasyon M\u00FChendisli\u011Fi Lisans"
+    },
+    {
+        "programKodu": "ROSE_LS",
+        "programAdi": "Robotik ve Otonom Sistemleri M\u00FChendisli\u011Fi (\u0130ngilizce) Lisans"
+    },
+    {
+        "programKodu": "ROS_LS",
+        "programAdi": "Robotik ve Otonom Sistemleri M\u00FChendisli\u011Fi Lisans"
+    },
+    {
+        "programKodu": "TEL_LS",
+        "programAdi": "Telekom\u00FCnikasyon M\u00FChendisli\u011Fi Lisans"
+    }
+]

@@ -1,0 +1,540 @@
+{
+    "Faculty of Science and Letters": [
+        {
+            "programKodu": "FIZE_LS",
+            "programAdi": "Fizik M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "FIZ_LS",
+            "programAdi": "Fizik M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "KIME_LS",
+            "programAdi": "Kimya (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "KIM_LS",
+            "programAdi": "Kimya Lisans"
+        },
+        {
+            "programKodu": "MATE_LS",
+            "programAdi": "Matematik M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "MAT_LS",
+            "programAdi": "Matematik M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "BIOE_LS",
+            "programAdi": "Molek\u00fcler Biyoloji ve Genetik (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "BIO_LS",
+            "programAdi": "Molek\u00fcler Biyoloji ve Genetik Lisans"
+        }
+    ],
+    "Faculty of Architecture": [
+        {
+            "programKodu": "EUTE_LS",
+            "programAdi": "End\u00fcstri \u00dcr\u00fcnleri Tasar\u0131m\u0131 (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "EUT_LS",
+            "programAdi": "End\u00fcstri \u00dcr\u00fcnleri Tasar\u0131m\u0131 Lisans"
+        },
+        {
+            "programKodu": "ENTE_LS",
+            "programAdi": "End\u00fcstriyel Tasar\u0131m (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "ICM_LS",
+            "programAdi": "\u0130\u00e7 Mimarl\u0131k Lisans"
+        },
+        {
+            "programKodu": "MIME_LS",
+            "programAdi": "Mimarl\u0131k (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "MIM_LS",
+            "programAdi": "Mimarl\u0131k Lisans"
+        },
+        {
+            "programKodu": "PEME_LS",
+            "programAdi": "Peyzaj Mimarl\u0131\u011f\u0131 (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "PEM_LS",
+            "programAdi": "Peyzaj Mimarl\u0131\u011f\u0131 Lisans"
+        },
+        {
+            "programKodu": "SBPE_LS",
+            "programAdi": "\u015eehir ve B\u00f6lge Planlama (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "SBP_LS",
+            "programAdi": "\u015eehir ve B\u00f6lge Planlama Lisans"
+        }
+    ],
+    "Faculty of Electrical and Electronics Engineering": [
+        {
+            "programKodu": "ELKE_LS",
+            "programAdi": "Elektrik M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "ELK_LS",
+            "programAdi": "Elektrik M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "ELE_LS",
+            "programAdi": "Elektronik M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "ELH_LS",
+            "programAdi": "Elektronik ve Haberle\u015fme M\u00fchendisli\u011fi (ELH) Lisans"
+        },
+        {
+            "programKodu": "EHBE_LS",
+            "programAdi": "Elektronik ve Haberle\u015fme M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "EHB_LS",
+            "programAdi": "Elektronik ve Haberle\u015fme M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "KON_LS",
+            "programAdi": "Kontrol M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "KOME_LS",
+            "programAdi": "Kontrol ve Otomasyon M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "KOM_LS",
+            "programAdi": "Kontrol ve Otomasyon M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "ROSE_LS",
+            "programAdi": "Robotik ve Otonom Sistemleri M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "ROS_LS",
+            "programAdi": "Robotik ve Otonom Sistemleri M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "TEL_LS",
+            "programAdi": "Telekom\u00fcnikasyon M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Faculty of Civil Engineering": [
+        {
+            "programKodu": "CEVE_LS",
+            "programAdi": "\u00c7evre M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "CEV_LS",
+            "programAdi": "\u00c7evre M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "GEOE_LS",
+            "programAdi": "Geomatik M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "GEO_LS",
+            "programAdi": "Geomatik M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "HTAE_LS",
+            "programAdi": "Harita M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "HTA_LS",
+            "programAdi": "Harita M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "INSE_LS",
+            "programAdi": "\u0130n\u015faat M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "INS_LS",
+            "programAdi": "\u0130n\u015faat M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Faculty of Mechanical Engineering": [
+        {
+            "programKodu": "IMLE_LS",
+            "programAdi": "\u0130malat M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "IML_LS",
+            "programAdi": "\u0130malat M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "MAKE_LS",
+            "programAdi": "Makina M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "MAK_LS",
+            "programAdi": "Makina M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Faculty of Mines": [
+        {
+            "programKodu": "CHZE_LS",
+            "programAdi": "Cevher Haz\u0131rlama M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "CHZ_LS",
+            "programAdi": "Cevher Haz\u0131rlama M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "JEFE_LS",
+            "programAdi": "Jeofizik M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "JEF_LS",
+            "programAdi": "Jeofizik M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "JEOE_LS",
+            "programAdi": "Jeoloji M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "JEO_LS",
+            "programAdi": "Jeoloji M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "MADE_LS",
+            "programAdi": "Maden M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "MAD_LS",
+            "programAdi": "Maden M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "PETE_LS",
+            "programAdi": "Petrol ve Do\u011fal Gaz M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "PET_LS",
+            "programAdi": "Petrol ve Do\u011fal Gaz M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Faculty of Chemical and Metallurgical Engineering": [
+        {
+            "programKodu": "GIDE_LS",
+            "programAdi": "G\u0131da M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "GID_LS",
+            "programAdi": "G\u0131da M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "KMME_LS",
+            "programAdi": "Kimya M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "KMM_LS",
+            "programAdi": "Kimya M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "METE_LS",
+            "programAdi": "Metalurji ve Malzeme M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "MET_LS",
+            "programAdi": "Metalurji ve Malzeme M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Faculty of Naval Architecture and Ocean Engineering": [
+        {
+            "programKodu": "GEME_LS",
+            "programAdi": "Gemi \u0130n\u015faat\u0131 ve Gemi Makinalar\u0131 M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "GEM_LS",
+            "programAdi": "Gemi \u0130n\u015faat\u0131 ve Gemi Makinalar\u0131 M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "DENE_LS",
+            "programAdi": "Gemi ve Deniz Teknolojisi M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "DEN_LS",
+            "programAdi": "Gemi ve Deniz Teknolojisi M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Faculty of Management": [
+        {
+            "programKodu": "ECNE_LS",
+            "programAdi": "Ekonomi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "IEBE_LS",
+            "programAdi": "End\u00fcstri M\u00fchendisli\u011fi (\u0130ngilizce) (TAU)"
+        },
+        {
+            "programKodu": "ENDE_LS",
+            "programAdi": "End\u00fcstri M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "END_LS",
+            "programAdi": "End\u00fcstri M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "ISLE_LS",
+            "programAdi": "\u0130\u015fletme M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "ISL_LS",
+            "programAdi": "\u0130\u015fletme M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "VBAE_LS",
+            "programAdi": "Veri Bilimi ve Analiti\u011fi (\u0130ngilizce) Lisans"
+        }
+    ],
+    "Faculty of Aeronautics and Astronautics": [
+        {
+            "programKodu": "IBM_LS",
+            "programAdi": "\u0130klim Bilimi ve Meteoroloji M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "MTO_LS",
+            "programAdi": "Meteoroloji M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "UCK_LS",
+            "programAdi": "U\u00e7ak M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "UZBE_LS",
+            "programAdi": "Uzay M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "UZB_LS",
+            "programAdi": "Uzay M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Faculty of Maritime": [
+        {
+            "programKodu": "DUIE_LS",
+            "programAdi": "Deniz Ula\u015ft\u0131rma \u0130\u015fletme M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "DUI_LS",
+            "programAdi": "Deniz Ula\u015ft\u0131rma \u0130\u015fletme M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "GMIE_LS",
+            "programAdi": "Gemi Makinalar\u0131 \u0130\u015fletme M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "GMI_LS",
+            "programAdi": "Gemi Makinalar\u0131 \u0130\u015fletme M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Turkish Classical Music Conservatoire": [
+        {
+            "programKodu": "BST_LS",
+            "programAdi": "Bestecilik Lisans"
+        },
+        {
+            "programKodu": "CAB_4T_LS",
+            "programAdi": "\u00c7alg\u0131 (4 Telli Kemen\u00e7e) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_BG_LS",
+            "programAdi": "\u00c7alg\u0131 (Ba\u011flama) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_DL_LS",
+            "programAdi": "\u00c7alg\u0131 (Dilli Kaval) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_DS_LS",
+            "programAdi": "\u00c7alg\u0131 (Dilsiz Kaval) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_KA_LS",
+            "programAdi": "\u00c7alg\u0131 (Kanun) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_KM_LS",
+            "programAdi": "\u00c7alg\u0131 (Keman) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_KE_LS",
+            "programAdi": "\u00c7alg\u0131 (Kemane) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_KL_LS",
+            "programAdi": "\u00c7alg\u0131 (Klarnet) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_KO_LS",
+            "programAdi": "\u00c7alg\u0131 (Kontrbas) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_ME_LS",
+            "programAdi": "\u00c7alg\u0131 (Mey) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_NE_LS",
+            "programAdi": "\u00c7alg\u0131 (Ney) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_TN_LS",
+            "programAdi": "\u00c7alg\u0131 (Tanbur) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_TA_LS",
+            "programAdi": "\u00c7alg\u0131 (Tar) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_UD_LS",
+            "programAdi": "\u00c7alg\u0131 (Ud) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_3T_LS",
+            "programAdi": "\u00c7alg\u0131 (\u00dc\u00e7 Telli Kemen\u00e7e) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_VI_LS",
+            "programAdi": "\u00c7alg\u0131 (Viyola) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_VS_LS",
+            "programAdi": "\u00c7alg\u0131 (Viyolonsel) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CAB_VC_LS",
+            "programAdi": "\u00c7alg\u0131 (Vurmal\u0131 \u00c7alg\u0131lar) Lisans Program\u0131"
+        },
+        {
+            "programKodu": "CEB_LS",
+            "programAdi": "\u00c7alg\u0131 E\u011fitimi Lisans"
+        },
+        {
+            "programKodu": "CAB_LS",
+            "programAdi": "\u00c7alg\u0131 Lisans"
+        },
+        {
+            "programKodu": "KMP_LS",
+            "programAdi": "Kompozisyon Lisans"
+        },
+        {
+            "programKodu": "MUT_LS",
+            "programAdi": "M\u00fczik Teknolojileri Lisans"
+        },
+        {
+            "programKodu": "MZT_LS",
+            "programAdi": "M\u00fczik Teknolojisi Lisans"
+        },
+        {
+            "programKodu": "MTR_LS",
+            "programAdi": "M\u00fczik Teorisi Lisans"
+        },
+        {
+            "programKodu": "MUZE_LS",
+            "programAdi": "M\u00fczikoloji (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "MUZ_LS",
+            "programAdi": "M\u00fczikoloji Lisans"
+        },
+        {
+            "programKodu": "SES_TH_LS",
+            "programAdi": "Ses E\u011fitimi (THM) Lisans"
+        },
+        {
+            "programKodu": "SES_TS_LS",
+            "programAdi": "Ses E\u011fitimi (TSM) Lisans"
+        },
+        {
+            "programKodu": "SES_LS",
+            "programAdi": "Ses E\u011fitimi Lisans"
+        },
+        {
+            "programKodu": "TEB_LS",
+            "programAdi": "Temel Bilimler (Konservatuvar) Lisans"
+        },
+        {
+            "programKodu": "THO_LS",
+            "programAdi": "T\u00fcrk Halk Oyunlar\u0131 Lisans"
+        }
+    ],
+    "Faculty of Textile Technologies and Design": [
+        {
+            "programKodu": "TEKE_LS",
+            "programAdi": "Tekstil M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "TEK_LS",
+            "programAdi": "Tekstil M\u00fchendisli\u011fi Lisans"
+        }
+    ],
+    "Faculty of Computer and Informatics Engineering": [
+        {
+            "programKodu": "BLGE_LS",
+            "programAdi": "Bilgisayar M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "BLG_LS",
+            "programAdi": "Bilgisayar M\u00fchendisli\u011fi Lisans"
+        },
+        {
+            "programKodu": "SECE_LS",
+            "programAdi": "Siber G\u00fcvenlik M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        },
+        {
+            "programKodu": "YZVE_LS",
+            "programAdi": "Yapay Zeka ve Veri M\u00fchendisli\u011fi (\u0130ngilizce) Lisans"
+        }
+    ],
+    "ITU-TRNC Education-Research Campuses": [
+        {
+            "programKodu": "CEN_LS",
+            "programAdi": "Bilgisayar M\u00fchendisli\u011fi (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "MTM_LS",
+            "programAdi": "Deniz Ula\u015ft\u0131rma \u0130\u015fletme M\u00fchendisli\u011fi (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "MMD_LS",
+            "programAdi": "Denizcilik \u0130\u015fletmeleri Y\u00f6netimi (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "EFN_LS",
+            "programAdi": "Ekonomi ve Finans (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "EEE_LS",
+            "programAdi": "Elektrik - Elektronik M\u00fchendisli\u011fi (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "IND_LS",
+            "programAdi": "End\u00fcstri M\u00fchendisli\u011fi (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "GEMK_LS",
+            "programAdi": "Gemi \u0130n\u015faat\u0131 ve Gemi Makinalar\u0131 M\u00fchendisli\u011fi (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "NAE_LS",
+            "programAdi": "Gemi \u0130n\u015faat\u0131 ve Gemi Makinalar\u0131 M\u00fchendisli\u011fi (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "MEN_LS",
+            "programAdi": "Gemi Makinalar\u0131 \u0130\u015fletme M\u00fchendisli\u011fi (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "IAD_LS",
+            "programAdi": "\u0130\u00e7 Mimarl\u0131k (\u0130ngilizce) (KKTC) Lisans"
+        },
+        {
+            "programKodu": "ARC_LS",
+            "programAdi": "Mimarl\u0131k (\u0130ngilizce) (KKTC) Lisans"
+        }
+    ]
+}

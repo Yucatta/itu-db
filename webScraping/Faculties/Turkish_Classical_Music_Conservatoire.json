@@ -1,0 +1,314 @@
+{
+    "BST_LS": [
+        [
+            "1016",
+            "Bestecilik Lisans Program\u0131 (T\u00fcrk\u00e7e) 2020-2021 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_4T_LS": [
+        [
+            "1019",
+            "\u00c7alg\u0131 (4 Telli Kemen\u00e7e) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1020",
+            "\u00c7alg\u0131 (4 Telli Kemen\u00e7e) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_BG_LS": [
+        [
+            "1021",
+            "\u00c7alg\u0131 (Ba\u011flama) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1022",
+            "\u00c7alg\u0131 (Ba\u011flama) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_DL_LS": [
+        [
+            "1023",
+            "\u00c7alg\u0131 (Dilli Kaval) Lisans Program\u0131 2010-2011 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1024",
+            "\u00c7alg\u0131 (Dilli Kaval) Lisans Program\u0131 2010-2011 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_DS_LS": [
+        [
+            "1025",
+            "\u00c7alg\u0131 (Dilsiz Kaval) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1026",
+            "\u00c7alg\u0131 (Dilsiz Kaval) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_KA_LS": [
+        [
+            "1027",
+            "\u00c7alg\u0131 (Kanun) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1028",
+            "\u00c7alg\u0131 (Kanun) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_KM_LS": [
+        [
+            "1033",
+            "\u00c7alg\u0131 (Keman) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1034",
+            "\u00c7alg\u0131 (Keman) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_KE_LS": [
+        [
+            "1029",
+            "\u00c7alg\u0131 (Kemane) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1030",
+            "\u00c7alg\u0131 (Kemane) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_KL_LS": [
+        [
+            "1031",
+            "\u00c7alg\u0131 (Klarnet) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1032",
+            "\u00c7alg\u0131 (Klarnet) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_KO_LS": [
+        [
+            "1035",
+            "\u00c7alg\u0131 (Kontrbas) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1036",
+            "\u00c7alg\u0131 (Kontrbas) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_ME_LS": [
+        [
+            "1038",
+            "\u00c7alg\u0131 (Mey) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1039",
+            "\u00c7alg\u0131 (Mey) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_NE_LS": [
+        [
+            "1040",
+            "\u00c7alg\u0131 (Ney) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1041",
+            "\u00c7alg\u0131 (Ney) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_TN_LS": [
+        [
+            "1044",
+            "\u00c7alg\u0131 (Tanbur) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1045",
+            "\u00c7alg\u0131 (Tanbur) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_TA_LS": [
+        [
+            "1042",
+            "\u00c7alg\u0131 (Tar) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1043",
+            "\u00c7alg\u0131 (Tar) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_UD_LS": [
+        [
+            "1046",
+            "\u00c7alg\u0131 (Ud) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1047",
+            "\u00c7alg\u0131 (Ud) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_3T_LS": [
+        [
+            "1017",
+            "\u00c7alg\u0131 (\u00dc\u00e7 Telli Kemen\u00e7e) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1018",
+            "\u00c7alg\u0131 (\u00dc\u00e7 Telli Kemen\u00e7e) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_VI_LS": [
+        [
+            "1050",
+            "\u00c7alg\u0131 (Viyola) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1051",
+            "\u00c7alg\u0131 (Viyola) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_VS_LS": [
+        [
+            "1052",
+            "\u00c7alg\u0131 (Viyolonsel) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1053",
+            "\u00c7alg\u0131 (Viyolonsel) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_VC_LS": [
+        [
+            "1048",
+            "\u00c7alg\u0131 (Vurmal\u0131 \u00c7alg\u0131lar) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1049",
+            "\u00c7alg\u0131 (Vurmal\u0131 \u00c7alg\u0131lar) Lisans Program\u0131 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CEB_LS": [
+        [
+            "1054",
+            "\u00c7alg\u0131 E\u011fitimi Lisans Program\u0131 2020-2021 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "CAB_LS": [
+        [
+            "1037",
+            "\u00c7alg\u0131 Lisans Program\u0131 (T\u00fcrk\u00e7e) 2010-2011 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "KMP_LS": [
+        [
+            "1057",
+            "Kompozisyon Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1058",
+            "Kompozisyon Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz ile 2010-2011 / G\u00fcz D\u00f6nemleri Aras\u0131"
+        ],
+        [
+            "1059",
+            "Kompozisyon Lisans Program\u0131 (T\u00fcrk\u00e7e) 2010-2011 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "MUT_LS": [
+        [
+            "1070",
+            "M\u00fczik Teknolojileri Lisans Program\u0131 (T\u00fcrk\u00e7e) 2012-2013 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "MZT_LS": [
+        [
+            "1088",
+            "M\u00fczik Teknolojisi Lisans Program\u0131 (T\u00fcrk\u00e7e) 2020-2021 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "MTR_LS": [
+        [
+            "1066",
+            "M\u00fczik Teorisi Lisans Program\u0131 (T\u00fcrk\u00e7e) 2010-2011 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "MUZE_LS": [
+        [
+            "1087",
+            "M\u00fczikoloji Lisans Program\u0131 (%100 \u0130ngilizce) 2011-2012 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "MUZ_LS": [
+        [
+            "1083",
+            "M\u00fczikoloji Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1084",
+            "M\u00fczikoloji Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz ile 2010-2011 / G\u00fcz D\u00f6nemleri Aras\u0131"
+        ],
+        [
+            "1085",
+            "M\u00fczikoloji Lisans Program\u0131 (T\u00fcrk\u00e7e) 2010-2011 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "SES_TH_LS": [
+        [
+            "1090",
+            "Ses E\u011fitimi (THM) Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1091",
+            "Ses E\u011fitimi (THM) Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz ile 2010-2011 / G\u00fcz D\u00f6nemleri Aras\u0131"
+        ],
+        [
+            "1092",
+            "Ses E\u011fitimi (THM) Lisans Program\u0131 (T\u00fcrk\u00e7e) 2010-2011 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "SES_TS_LS": [
+        [
+            "1093",
+            "Ses E\u011fitimi (TSM) Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1095",
+            "Ses E\u011fitimi (TSM) Lisans Program\u0131 (T\u00fcrk\u00e7e) 2010-2011 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ],
+        [
+            "1094",
+            "Ses E\u011fitimi (TSM) Lisans Program\u0131 2005-2006 / G\u00fcz ile 2010-2011 / G\u00fcz D\u00f6nemleri Aras\u0131"
+        ]
+    ],
+    "SES_LS": [
+        [
+            "1089",
+            "Ses E\u011fitimi Lisans Program\u0131 2012-2013 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "TEB_LS": [
+        [
+            "1096",
+            "Temel Bilimler (Konservatuvar) Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1097",
+            "Temel Bilimler (Konservatuvar) Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ],
+    "THO_LS": [
+        [
+            "1098",
+            "T\u00fcrk Halk Oyunlar\u0131 Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz D\u00f6nemi \u00d6ncesi"
+        ],
+        [
+            "1099",
+            "T\u00fcrk Halk Oyunlar\u0131 Lisans Program\u0131 (T\u00fcrk\u00e7e) 2005-2006 / G\u00fcz ile 2010-2011 / G\u00fcz D\u00f6nemleri Aras\u0131"
+        ],
+        [
+            "1100",
+            "T\u00fcrk Halk Oyunlar\u0131 Lisans Program\u0131 (T\u00fcrk\u00e7e) 2010-2011 / G\u00fcz ile 2012-2013 / G\u00fcz D\u00f6nemleri Aras\u0131"
+        ],
+        [
+            "1101",
+            "T\u00fcrk Halk Oyunlar\u0131 Lisans Program\u0131 (T\u00fcrk\u00e7e) 2012-2013 / G\u00fcz D\u00f6nemi Sonras\u0131"
+        ]
+    ]
+}
