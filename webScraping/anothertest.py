@@ -16,7 +16,7 @@ for key,data in faculties.items():
     #     name:name,
     #     "courses":r.text,
     # }
-    # print(key,data)  # or r.json() if JSON
+    # print(key,data) 
 
 
 with open("faculties.json",mode="w") as f:

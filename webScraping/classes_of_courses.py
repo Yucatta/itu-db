@@ -12,6 +12,7 @@ course_object_keys = ["Ders Kodu","Ders Adı","Ders Dili","Z/S","Kredi","AKTS","
 BASE_URL = "https://obs.itu.edu.tr"
 
 folder = Path("Faculties")
+max_retries = 3
 
 os.mkdir("Courses")
 
@@ -25,7 +26,28 @@ for file in folder.glob("*.json"):
 
         for plan in Plans:
             url = f"https://obs.itu.edu.tr/public/DersPlan/DersPlanDetay/{plan[0]}"
-            response = requests.get(url, headers=headers, timeout=30)
+            attempt = 0
+
+            while attempt < max_retries:
+                try:
+                    response = requests.get(url, headers=headers, timeout=30)
+                    
+                    # Check if the HTTP status code is an error (4xx or 5xx)
+                    response.raise_for_status()
+                    
+                    # If successful, break the loop
+                    break
+                    
+                except (requests.exceptions.RequestException, Exception) as e:
+                    attempt += 1
+                    print(f"Attempt {attempt} failed: {e}")
+                    
+                    if attempt < max_retries:
+                        print("Waiting 2 minutes before retrying.....................")
+                        time.sleep(120)  # 120 seconds = 2 minutes
+                    else:
+                        print("Max retries reached. Giving up. !!!!!!!!!!!!!!!!!!!!!!!!!!!")
+                        response = None
             html = response.text
             soup = BeautifulSoup(html, "html.parser")
 
